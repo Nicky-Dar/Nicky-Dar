@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nicky-Dar
-- 👀 I’m interested in AI and Devops
-- 🌱 I’m currently learning kubernetes
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nicky-darmawan-74667a1bb) or [Instagram](https://tr.ee/YZWj3b9Q9m) 
+- 👀 I’m interested in IaaS, PaaS, System Engineer and Devops
+- 🌱 I’m currently learning kubernetes and openstack
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nicky-darmawan) or [Instagram](https://tr.ee/YZWj3b9Q9m) 
 <!---
 - 💞️ I’m looking to collaborate on ...
 
